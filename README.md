@@ -1,1 +1,47 @@
 # Amazon-Project-review-analysis
+
+
+### project Overview
+This project explores Amazon Product data using Microsoft excel,
+the gola is to uncover insight into ptoduct performance, customer feedback , 
+and Potential revenue opportunities by analyzing ratings, reviews,discounts and product categories.
+Excel functions like data claening, pivot tables, and dashboards were used to visualize and communicate insights and generates business intelligence.
+
+### Data source
+Tne  primary data source of data used here is Amazin Data.Xlsx and this is an open source 
+data that can easily be freely downloaded from an open source online such as kaggle
+or Fred or any other repostitory site
+
+### Tools Used
+-  Ms Excel for data cleaning [download here](https://www.microsoft.com)
+  - For data collection
+  - For data cleaning
+    1. Data Manupulation
+    2. Data Munching
+-  SQL Server ( for querying and analysis)
+-  Power Bi (for creating a report)
+-  Ms power point (for presentation)
+  ### Data cleaning and preparation
+  In the initial phase of the Data cleaning and preparations, 
+  we perform the following action;
+1. Data loading and inspecion
+2.  Handing Missing varriables
+3.   Data cleaning and formatting
+
+### Exploratory data analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+  - What is thneoverall sales trend
+  - Which products are top sellers
+  - What are the product of peak sales? 
+
+### Data Analysis
+Tis is where we onclude some basic lines of code or queries or even some of the 
+DAX expression used during the analysis
+
+    ~~~  SQL
+    Select A,B,C
+    WHere A> 15
+    ~~~
+
+
+### Analysis
