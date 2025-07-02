@@ -13,10 +13,15 @@ It contains information on Product Names, Categories,Prices, discounts,Rating sc
 The source is intended foe educational purposes only and may not reflect real-time Amazon data.
 ### Tools Used
 -  Ms Excel for data cleaning [download here](https://www.microsoft.com)
-  - For data collection
-  - For data cleaning
-    1. Data Manupulation
-    2. Data Munching
+-  For data cleaning, analysis and dashboard creation using:
+    1. Excel Tables
+    2. Pivot Tables
+    3. Pivot Charts
+    4. Slicers
+    5. Kpi Card
+    6. Conditional formatting
+    7. Formulars ('IF', 'COUNTIF', 'SUMIF', 'AVERAGE', 'IFFERROR','UNIQUE' etc.) 
+   
 -  SQL Server ( for querying and analysis)
 -  Power Bi (for creating a report)
 -  Ms power point (for presentation)
