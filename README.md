@@ -1,4 +1,4 @@
-# Amazon-Project-review-analysis
+# Amazon Project-review-analysis
 
 
 ### project Overview
@@ -12,7 +12,7 @@ The dataset used in this projectwas provided as part of a case study excercise o
 It contains information on Product Names, Categories,Prices, discounts,Rating score, and rating counts. 
 The source is intended foe educational purposes only and may not reflect real-time Amazon data.
 ### Tools Used
--  Ms Excel for data cleaning [Download excel file](https://github.com/debby12-gem/Amazon-case-study/raw/main/Amazon%20case%20study%2020reviewe.xlsx)
+-  Ms Excel for data cleaning [Download excel file]()
 -  For data cleaning, analysis and dashboard creation using:
     1. Excel Tables
     2. Pivot Tables
