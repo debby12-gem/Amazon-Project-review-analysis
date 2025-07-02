@@ -8,10 +8,9 @@ and Potential revenue opportunities by analyzing ratings, reviews,discounts and 
 Excel functions like data claening, pivot tables, and dashboards were used to visualize and communicate insights and generates business intelligence.
 
 ### Data source
-Tne  primary data source of data used here is Amazin Data.Xlsx and this is an open source 
-data that can easily be freely downloaded from an open source online such as kaggle
-or Fred or any other repostitory site
-
+The dataset used in this projectwas provided as part of a case study excercise on Amazon Product review.
+It contains information on Product Names, Categories,Prices, discounts,Rating score, and rating counts. 
+The source is intended foe educational purposes only and may not reflect real-time Amazon data.
 ### Tools Used
 -  Ms Excel for data cleaning [download here](https://www.microsoft.com)
   - For data collection
