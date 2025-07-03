@@ -23,13 +23,14 @@ The source is intended foe educational purposes only and may not reflect real-ti
     6. Conditional formatting
     7. Formulars ('IF', 'COUNTIF', 'SUMIF', 'AVERAGE', 'IFFERROR','UNIQUE' etc.) 
    
-### PROJECT TASK AND INSIGHT  
+### PROJECT TASK AND INSIGHT 
+  -  Task 1: There are 1455 unique products in the dataset, showing a wide variety of item sold on amazon
+  -  Task 2: The product  with the highest average ratings is  ### Syncwire Ltg To Usb Cable For Fast Charging
+     with a rating of ### 5.0 indicating a strong customer satisfaction
+  -  
+    
 
-### Exploratory data analysis
-EDA involved the exploring of the data to answer some questions about the data such as;
-  - What is thneoverall sales trend
-  - Which products are top sellers
-  - What are the product of peak sales? 
+ 
 
 ### Data Analysis
 Tis is where we onclude some basic lines of code or queries or even some of the 
