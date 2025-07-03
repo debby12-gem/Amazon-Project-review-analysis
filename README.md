@@ -1,6 +1,5 @@
 [Amazon_case_study_reviewed.xlsx](https://github.com/user-attachments/files/21034078/Amazon_case_study_reviewed.xlsx)
-[Amazon_case_study_reviewed.xlsx](https://github.com/user-attachments/files/21034071/Amazon_case_study_reviewed.xlsx)
-# Amazon-Project-review-analysis
+# AMAZON_PROJECT_REVIEW_ANALYSIS
 
 
 ### project Overview
@@ -9,11 +8,11 @@ the gola is to uncover insight into ptoduct performance, customer feedback ,
 and Potential revenue opportunities by analyzing ratings, reviews,discounts and product categories.
 Excel functions like data claening, pivot tables, and dashboards were used to visualize and communicate insights and generates business intelligence.
 
-### Data source
+### DATA SOURCE
 The dataset used in this projectwas provided as part of a case study excercise on Amazon Product review.
 It contains information on Product Names, Categories,Prices, discounts,Rating score, and rating counts. 
 The source is intended foe educational purposes only and may not reflect real-time Amazon data.
-### Tools Used
+### TOOLS USED
 -  Ms Excel for data cleaning [https://github.com/debby12-gem/Amazon-Project-review-analysis/blob/main/Amazon_case_study_reviewed.xlsx)
 -  For data cleaning, analysis and dashboard creation using:
     1. Excel Tables
@@ -24,15 +23,7 @@ The source is intended foe educational purposes only and may not reflect real-ti
     6. Conditional formatting
     7. Formulars ('IF', 'COUNTIF', 'SUMIF', 'AVERAGE', 'IFFERROR','UNIQUE' etc.) 
    
--  SQL Server ( for querying and analysis)
--  Power Bi (for creating a report)
--  Ms power point (for presentation)
-  ### Data cleaning and preparation
-  In the initial phase of the Data cleaning and preparations, 
-  we perform the following action;
-1. Data loading and inspecion
-2.  Handing Missing varriables
-3.   Data cleaning and formatting
+### PROJECT TASK AND INSIGHT  
 
 ### Exploratory data analysis
 EDA involved the exploring of the data to answer some questions about the data such as;
