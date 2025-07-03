@@ -26,9 +26,11 @@ The source is intended foe educational purposes only and may not reflect real-ti
 ### PROJECT TASK AND INSIGHT 
   -  **Task 1**: There are **1455** unique products in the dataset, showing a wide variety of item sold on amazon
   -  **Task 2**: The product  with the highest average ratings is **Syncwire Ltg To Usb Cable For Fast Charging**
-     with a rating of **5.0** indicating a strong customer satisfaction
+     with a rating of **5.0** indicating a strong customer satisfaction. This is the screenshot of my amazon project
+     [Amazon.png]
   -  **Task 3**: 
     
+
 
  
 
