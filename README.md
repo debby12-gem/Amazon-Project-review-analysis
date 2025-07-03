@@ -13,7 +13,7 @@ The dataset used in this projectwas provided as part of a case study excercise o
 It contains information on Product Names, Categories,Prices, discounts,Rating score, and rating counts. 
 The source is intended foe educational purposes only and may not reflect real-time Amazon data.
 ### TOOLS USED
--  Ms Excel for data cleaning [Download here](https://github.com/debby12-gem/Amazon-Project-review-analysis/blob/main/Amazon_case_study_reviewed.xlsx)
+-  Ms Excel for data cleaning [Download here](https://github.com/debby12-gem/Amazon-Project-review-analysis/raw/main/Amazon_case_study_reviewed.xlsx)
 -  For data cleaning, analysis and dashboard creation using:
     1. Excel Tables
     2. Pivot Tables
