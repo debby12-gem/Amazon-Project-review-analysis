@@ -1,3 +1,4 @@
+
 [Amazon_case_study_reviewed.xlsx](https://github.com/user-attachments/files/21034078/Amazon_case_study_reviewed.xlsx)
 # AMAZON_PROJECT_REVIEW_ANALYSIS
 
@@ -30,18 +31,3 @@ The source is intended foe educational purposes only and may not reflect real-ti
      
   -  **Task 3**: 
     
-
-
- 
-
-### Data Analysis
-Tis is where we onclude some basic lines of code or queries or even some of the 
-DAX expression used during the analysis
-
-    ~~~  SQL
-    Select A,B,C
-    WHere A> 15
-    ~~~
-
-
-### Analysis
